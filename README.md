@@ -1,3 +1,6 @@
+Copy of engine.io to allow for loading 2 engine.io versions and be backward compatible.
+
+
 # Engine.IO: the realtime engine
 
 [![Build Status](https://secure.travis-ci.org/LearnBoost/engine.io.png)](http://travis-ci.org/LearnBoost/engine.io)
