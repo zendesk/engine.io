@@ -1,5 +1,5 @@
 {
-    "name": "engine.io"
+    "name": "engine.io_old"
   , "version": "0.2.2"
   , "description": "The realtime engine behind Socket.IO. Provides the foundation of a bidirectional connection between client and server"
   , "main": "./lib/engine.io"
