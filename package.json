@@ -15,7 +15,7 @@
         { "name": "Christoph Dorn", "web": "https://github.com/cadorn" }
     ]
   , "dependencies": {
-        "debug": "0.6.0"
+        "debug": "2.6.9"
       , "ws": "https://github.com/TooTallNate/ws/archive/0cb9fe7a21a7a7c200f68b57916d1d62b66082a1.tar.gz"
       , "engine.io-parser": "0.3.0"
       , "base64id": "0.1.0"
@@ -24,7 +24,7 @@
         "mocha": "*"
       , "expect.js": "*"
       , "superagent": "*"
-      , "engine.io-client": "0.7.9"
+      , "engine.io-client": "1.6.9"
       , "s": "*"
     }
   , "scripts" : { "test" : "make test" }
